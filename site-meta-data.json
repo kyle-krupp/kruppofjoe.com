@@ -1,10 +1,10 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Krupp of Joe",
+  "siteUrl": "https://kruppofjoe.com/",
+  "description": "Kyle Krupp's Blog",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Sup.",
+    "description": "I'm a software developer living in Boston, MA\n\nHere you you can find some thought pieces on techy, and non techy things. I'd like to think I know what I'm talking about, sometimes, I think."
   },
   "w3l_dom_key": "5e609f7a2d23fCF_Domain_verify"
 }
