@@ -27,15 +27,7 @@ export default ({ children }) => {
         <Navigation />
       </header>
       {children}
-      <footer className='site-footer'>
-        <p>
-          &copy; 2020 Delog &bull; Crafted with{' '}
-          <span role='img' aria-label='love'>
-            ❤️
-          </span>{' '}
-          by <a href='https://w3layouts.com'>W3Layouts</a>
-        </p>
-      </footer>
+      <footer className='site-footer'/>
     </div>
   )
 }
